@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CocoaPods使用心得
-date: 2016-04-02
+date: 2016-04-8
 tag: iOS 
 --- 
 
